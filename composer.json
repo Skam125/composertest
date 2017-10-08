@@ -1,0 +1,19 @@
+{
+    "name": "skam/test",
+    "description": "test composer package",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "skam125",
+            "email": "skam.max@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "SkamTestPackage\\": ""
+        }
+    }
+}
