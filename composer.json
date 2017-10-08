@@ -1,10 +1,10 @@
 {
-    "name": "skam/test",
+    "name": "Skam125/composer",
     "description": "test composer package",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
-        {
+        {cd com
             "name": "skam125",
             "email": "skam.max@gmail.com"
         }
